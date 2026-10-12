@@ -1,7 +1,7 @@
 
 <div align="center">
 
-✨ **Curiosity and Discovery : embracing uncertainty**✨ 
+✨ **Curiosity and discovery are born from embracing uncertainty**✨ 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanjianzhong&show_icons=true&theme=merko)
 -->
