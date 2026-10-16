@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <sub><i>Change manifests as periodic polarization, unified in emptiness;</i></sub><br>
-  <sub><i>growth spirals upward, originating from the end.</i></sub>
+  <i>Change manifests as periodic polarization, unified in emptiness;</i><br>
+  <i>growth spirals upward, originating from the end.</i>
 </p>
 
-<p align="center">— JianZhong Yan</p>
+<p align="center">— <i>JianZhong Yan<i></p>
 
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanjianzhong&show_icons=true&theme=merko)-->
@@ -33,4 +33,4 @@
 
 ---
 
-✨ Curiosity and discovery are born from embracing uncertainty， that is where science begins 
+✨ Curiosity and discovery are born from embracing uncertainty, that is where science begins.
